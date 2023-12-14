@@ -1,0 +1,14 @@
+Name:
+server02
+
+Description:
+This is a development server
+
+IP address:
+20.20.20.1
+
+Subnet mask:
+255.255.255.0
+
+Gateway:
+20.20.20.254

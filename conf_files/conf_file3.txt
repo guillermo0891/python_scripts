@@ -1,0 +1,14 @@
+Name:
+server03
+
+Description:
+This is a DB server
+
+IP address:
+30.30.30.1
+
+Subnet mask:
+255.255.255.0
+
+Gateway:
+30.30.30.254

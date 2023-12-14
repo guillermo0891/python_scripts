@@ -1,0 +1,14 @@
+Name:
+server01
+
+Description:
+This is a web server
+
+IP address:
+10.10.10.1
+
+Subnet mask:
+255.255.255.0
+
+Gateway:
+10.10.10.254
